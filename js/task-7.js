@@ -12,7 +12,6 @@ function checkStorage(available, ordered) {
   return message;
 }
 
-// приклади перевірки
 console.log(checkStorage(100, 50));
 console.log(checkStorage(100, 130));
 console.log(checkStorage(70, 0));
